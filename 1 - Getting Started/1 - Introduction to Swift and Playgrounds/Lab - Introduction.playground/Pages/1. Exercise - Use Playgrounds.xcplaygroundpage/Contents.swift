@@ -10,13 +10,13 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
+print("Artist: NETTA \nSong name: TOY")
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
-
+print("I'm not your stupid boy")
+print("You're stupid boy")
 
 /*:
 
